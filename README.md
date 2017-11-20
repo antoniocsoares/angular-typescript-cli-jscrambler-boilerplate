@@ -1,6 +1,7 @@
-# MyApp
+# angular-typescript-cli-jscrambler-borderplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+Changes were added to integrate Jscrambler with this application.
 
 ## Development server
 
@@ -13,6 +14,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+
+Run `ng build:prod` to build in production mode and protect your app with Jscrambler
 
 ## Running unit tests
 
